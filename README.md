@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeShiesh
 - 👀 I’m interested in GameDevelopment
 - 🌱 I’m currently learning C++
--  I’m currently working on a CLion Plugin
+- 🛠 I’m currently working on a CLion Plugin
 
 <!---
 LeShiesh/LeShiesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
